@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolitaireCypher", "SolitaireCypher\SolitaireCypher.csproj", "{FEF261D6-791C-485C-98B2-5353CAED3C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolitaireCypher.Tests", "SolitaireCypher.Tests\SolitaireCypher.Tests.csproj", "{93474C00-4564-47E3-A8F4-D8BF9B5D5C60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF261D6-791C-485C-98B2-5353CAED3C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF261D6-791C-485C-98B2-5353CAED3C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF261D6-791C-485C-98B2-5353CAED3C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF261D6-791C-485C-98B2-5353CAED3C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93474C00-4564-47E3-A8F4-D8BF9B5D5C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93474C00-4564-47E3-A8F4-D8BF9B5D5C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93474C00-4564-47E3-A8F4-D8BF9B5D5C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93474C00-4564-47E3-A8F4-D8BF9B5D5C60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
